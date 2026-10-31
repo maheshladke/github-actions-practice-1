@@ -7,4 +7,4 @@ def main():
     print("Result:", result)
 
 if __name__ == "__main__":
-    main()git
+    main()
